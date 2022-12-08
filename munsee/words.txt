@@ -66,6 +66,8 @@ nehneyoongus
 nehneyoonsak
 ngaleew
 ngumee
+ngwut
+ngwutaash
 nhakay
 nihkaat
 nihkash
@@ -76,7 +78,11 @@ niil
 niilaxk
 niimcheehumaakan
 niipaahum
+niisha
+niishaash
+noolii
 nuskiinjukw
+nxah
 nziit
 nzukeew
 nzukii
@@ -112,6 +118,7 @@ wahwal
 waniipakw
 waxkiichi
 wcheht
+wiimbat
 wiipongweew
 wiipongwii
 wiipongwsuw
