@@ -1,12 +1,3 @@
--ahaasii
--ahaasu
--hkee
--oowu
--ukwusii
--ukwusu
--uwee
--zii
--zu
 aahaas
 aahaasuw
 aakongweepuy
@@ -126,7 +117,6 @@ chkwal
 chkwalak
 chkwalal
 chkwalush
-crushespounds
 dahpapoonal
 dependentnoun
 eehundaxpwiing
@@ -165,8 +155,6 @@ espan
 ha
 heembut
 heesh
-heshe
-himher
 huluniixsuwaakan
 hwakayal
 hwakees
@@ -926,7 +914,6 @@ teet
 tehtahwuniikees
 tha
 thaayuw
-thats
 thupiing
 thupuy
 tohpu-wiineew
