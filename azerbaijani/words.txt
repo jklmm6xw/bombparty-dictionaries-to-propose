@@ -261,6 +261,7 @@ adab
 adaciq
 adadovsani
 adajio
+adajiosu
 adam
 adam-adamyana
 adamagilli
@@ -372,6 +373,7 @@ adinaliq
 adine
 adivayqanli
 adiy
+adjiosunu
 adlama
 adlamaq
 adlandirilma
@@ -904,6 +906,9 @@ aiqe
 ajan
 ajdix
 ajimax
+ajiotaj
+ajiotaja
+ajiotajin
 ajipencer
 ajiqiji
 ajiqoux
@@ -41351,6 +41356,7 @@ okesikli
 okesix'
 okesmex'
 oklux
+okrujioy
 oksid
 oksigen
 oksuz
