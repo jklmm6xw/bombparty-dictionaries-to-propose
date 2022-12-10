@@ -3069,6 +3069,7 @@ ayriq
 ayriqotu
 aysiz
 aysor
+aytacii
 ayuzlu
 ayyar-uyyar
 az
@@ -9511,6 +9512,7 @@ cihaz
 cihazqayiran
 cihazqayirma
 cihlesmex'
+ciillerde
 ciji
 ciji-baji
 cik-bik
@@ -27270,6 +27272,7 @@ istidrac
 istidrak
 istifa'
 istifade
+istifadeciilerin
 istifadelenme
 istifadelenmek
 istifadeli
@@ -27925,6 +27928,7 @@ jiletli
 jiletlik
 jironda
 jirondist
+jirovecii
 jirovka
 jiru
 jitiye
@@ -33719,6 +33723,7 @@ marcildamaq
 marcildatma
 marcildatmaq
 marcilti
+marcuccii
 marefsun
 marfac
 marfax
@@ -33765,6 +33770,7 @@ marksist-leninci
 marksistcesine
 marksizm
 marksizm-leninizm
+markusii
 marmahi
 marmelad
 maroken
@@ -43788,6 +43794,7 @@ pisreft
 pisro
 pisrov
 pissice
+pistaciifolia
 pistan
 pistaxta
 pister
