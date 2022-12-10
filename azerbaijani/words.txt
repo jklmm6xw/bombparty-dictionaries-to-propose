@@ -6364,7 +6364,9 @@ bitey
 bitezelzul
 bitib-tukenmez
 bitik
+bitirdkden
 bitirici
+bitiridkden
 bitirilme
 bitirilmek
 bitirme
@@ -18758,6 +18760,8 @@ etdirilme
 etdirilmek
 etdirmek
 etdix'
+etdkde
+etdkden
 etdograyan
 etdoyen
 etebat
@@ -21888,6 +21892,7 @@ gorusmek
 gorvut
 gosallahmindili
 goseni
+gosterdkden
 gosterici
 gosterilme
 gosterilmek
@@ -28584,6 +28589,7 @@ kecbin
 kecbinlik
 kecce
 kecdi-kecdi
+kecdkden
 kece
 keceatan
 kecebasan
@@ -30101,6 +30107,7 @@ kobur
 koc
 koc-dus
 koc-kulfet
+kocdudkden
 koce
 kocebe
 kocekoc
