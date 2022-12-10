@@ -5989,7 +5989,9 @@ bintlenmek
 bintli
 bintul'ineb
 binur
+biocografi
 biocografiya
+biocografiyanin
 biofizika
 biokimya
 biokimyevi
@@ -17407,6 +17409,7 @@ elmi-fantastik
 elmi-kutlevi
 elmi-nezeri
 elmi-populyar
+elmi-praktiki
 elmi-tetbiqi
 elmi-texniki
 elmilik
@@ -22979,6 +22982,7 @@ haqqadagar
 haqqaran
 haqqennesi
 haqqina
+haqqinda
 haqquli
 haqsever
 haqsiz
@@ -28519,6 +28523,7 @@ katarakt
 kataraktli
 katbin
 katda
+kateqoriyalarin
 kateqoriyali
 katequriya
 kater
@@ -36197,6 +36202,7 @@ mikroelementler
 mikrofun
 mikroiqlim
 mikroklimat
+mikroorqanizmler
 mikroorqanizmlerin
 mikroqurulus
 mikrorayon
@@ -37045,6 +37051,7 @@ movcib
 movcibince
 movcud
 movcudat
+movcuddur
 movcudiyyet
 movcudluq
 movczen
@@ -45299,6 +45306,7 @@ qanun
 qanun-qayda
 qanunauygun
 qanunauygunluq
+qanunauygunluqlari
 qanuncu
 qanunculuq
 qanundar
