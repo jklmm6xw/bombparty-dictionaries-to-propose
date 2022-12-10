@@ -36165,6 +36165,7 @@ mikroklimat
 mikroobyektler
 mikroobyektletin
 mikroorganizmanin
+mikroorqanizm
 mikroorqanizmin
 mikroorqanizmler
 mikroorqanizmlerden
