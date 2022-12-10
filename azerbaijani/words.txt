@@ -36208,7 +36208,14 @@ mikroelementler
 mikrofun
 mikroiqlim
 mikroklimat
+mikroobyektler
+mikroobyektletin
+mikroorganizmanin
+mikroorqanizmin
 mikroorqanizmler
+mikroorqanizmlerden
+mikroorqanizmlere
+mikroorqanizmleri
 mikroorqanizmlerin
 mikroqurulus
 mikrorayon
