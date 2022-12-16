@@ -2782,6 +2782,8 @@ avtubus
 avtul
 avtuqraf
 avxarramax
+awameh
+awwamaat
 ax
 ax-tuf
 ax-uf
@@ -3804,6 +3806,10 @@ bambili
 bamdad
 bameze
 bamia
+bamibal
+bamiblok
+bamihap
+bamischijf
 bamiye
 ban
 bana
@@ -8150,6 +8156,7 @@ canfesan
 canfesanliq
 canfeza
 cangah
+cangeelo
 cangudaz
 cangudazliq
 cangulum
@@ -8172,6 +8179,8 @@ caniyanan
 caniyananliq
 caniyanar
 caniyanarliq
+canjeelo
+canjeero
 canlandirici
 canlandirilma
 canlandirilmaq
@@ -32093,6 +32102,8 @@ labe
 labi
 labirint
 labis
+lablabi
+lablebi
 laborant
 laborantliq
 laboraturiya
@@ -32102,6 +32113,9 @@ labudluk
 labuke
 lac
 lacerem
+lachmajun
+lachooh
+lachuch
 lacin
 lacinquyrugu
 laciverd
@@ -32164,6 +32178,18 @@ lahan
 lahar
 lahim
 lahiqe
+lahmacun
+lahmahjoon
+lahmajo
+lahmajoon
+lahmajoun
+lahmajun
+lahmejeen
+lahmejin
+lahmejun
+lahoch
+lahoh
+lahooh
 lahovl
 lahut
 lahuti
@@ -32374,6 +32400,7 @@ laubaliliq
 laubaliyane
 laureatliq
 laurebt
+lauzinaj
 lava
 lavada
 lavar
@@ -32392,6 +32419,8 @@ lavaslamaq
 lavasqulaq
 lavlamax
 lavsan
+lawzinaj
+lawzinaq
 lax
 lax-lax
 lax-tax
@@ -32411,6 +32440,7 @@ laxlamis
 laxlatma
 laxlatmaq
 laxliq
+laxoox
 laxsan
 laxsek
 laxseng
@@ -32884,6 +32914,7 @@ leskerkes
 leslemex'
 lessoken
 lesyeyen
+lesynges
 let
 letafet
 letafetbexs
@@ -33298,6 +33329,7 @@ lokkultu
 lokleme
 loklemeg
 loklemek
+lokma
 lokomobil
 lokomotiv
 loku
@@ -33349,6 +33381,7 @@ lopuq
 loqarifm
 loqarifmleme
 loqarifmlemek
+loqma
 loqoqrafik-sillabik
 loqoqramlari
 loqqalox
@@ -33381,6 +33414,7 @@ lorux
 los
 losalos
 losbeber
+losenges
 losman
 losmanliq
 losqarin
@@ -33397,6 +33431,9 @@ lotug
 lotuglasmag
 lotuluq
 lotuxana
+loukoumades
+loukoumas
+loukoumathes
 lov
 lovax
 lovber
@@ -33443,6 +33480,7 @@ luennix'
 lufah
 lugab
 lugabli
+lugaimat
 lugat
 lugende
 luget
@@ -33455,11 +33493,13 @@ lugevi
 lugez
 lugz
 luhud
+luhuh
 luhum
 luidor
 luk
 luknet
 luksemburq-qaralama
+lukumades
 lukurd
 lukut
 lukutlamag
@@ -33520,6 +33560,7 @@ lupbiz
 lupburt
 luppadan
 lupurt
+luqaimat
 luqme
 luqum
 luqut
@@ -33552,6 +33593,7 @@ lutlesme
 lutlesmek
 lutluk
 luve
+luzina
 luzum
 luzumiyyet
 luzumsuz
@@ -40023,6 +40065,7 @@ nasib
 nasiliq
 nasir
 nasirri
+nasischijf
 nasix
 nasiye
 nasizm
