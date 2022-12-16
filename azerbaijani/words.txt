@@ -9460,6 +9460,7 @@ cezver
 cezzab
 cezzar
 chakhchoukha
+chalva
 charmoula
 chebakia
 chekhechoukha
@@ -9467,6 +9468,9 @@ chermoula
 chorba
 chraime
 chreime
+chuchvara
+chummus
+chumus
 ci
 cib
 cib-cib
@@ -15877,6 +15881,7 @@ dus
 dusale
 dusaxe
 dusbalan
+dusbara
 dusbere
 dusberelik
 dusberexana
@@ -15896,6 +15901,8 @@ duserine
 duserli
 dusgunnemex'
 dushadus
+dushbara
+dushpera
 dusix'
 duskun
 duskunlesme
@@ -19933,6 +19940,7 @@ felen
 feleqqe
 felezdemex'
 felfellemex'
+felfla
 feli
 fellah
 fellax
@@ -23036,6 +23044,8 @@ halalliq
 halalzade
 halat
 halatdar
+halava
+halavah
 halavat
 halavatdig
 halavis
@@ -23070,12 +23080,15 @@ hallasmaq
 hallasmax
 halli
 hallica
+halloom
+halloumi
 hallusinasiya
 halnava
 halo
 halogen
 halonki
 haloplo
+haloumi
 halous
 haloxar
 halqa
@@ -23093,11 +23106,18 @@ halqerez
 halsiz
 halsizca
 halsizliq
+halua
 haluc
+halum
+halumi
 halva
 halvaci
 halvaciliq
+halvah
+halvas
 halvaxudur
+halwa
+halwo
 ham-ham
 hamam
 hamamci
@@ -23141,6 +23161,7 @@ hamiz
 hamiziyyet
 hammal
 hamme
+hammos
 hampa
 hampala
 hampazor
@@ -23232,11 +23253,15 @@ harinlasmaq
 harinliq
 hariq
 hariqe
+harira
 haris
+harissa
 harma
 harmatan
 harmuniya
 harr
+harrisa
+harrissa
 harut
 hasa
 hasalama
@@ -23330,6 +23355,8 @@ havoti
 havotu
 havu
 havxirmax
+hawawshi
+hawwaoshi
 haxci
 haxdus
 haxisda
@@ -23588,6 +23615,7 @@ helahil
 helak
 helal
 helalzade
+helava
 helavet
 helavetbexs
 helavetyab
@@ -23646,6 +23674,7 @@ hellenme
 hellenmek
 hellesmex'
 helli
+hellim
 hellolunmaz
 hellulmuskilat
 helme
@@ -23661,8 +23690,10 @@ helqi
 helse
 helva'
 helva'xane
+helvah
 helvezeng
 helviyyat
+helwa
 hem
 hemagaz
 hemagus
@@ -24653,6 +24684,7 @@ hingilimlesmex'
 hingillemex'
 hingirremex'
 hini
+hininy
 hinleme
 hinlemek
 hinna'
@@ -24773,6 +24805,7 @@ hizb
 hizirig
 hizum
 hm
+hmiss
 ho
 ho-ha
 ho-ho
@@ -24848,9 +24881,15 @@ homeopat
 homeopatik
 homeopatiya
 homma
+hommos
+hommous
+hommus
 homogen
+homos
 homoseksualizm
+homous
 hompolov
+homus
 honaz
 honda
 honkonq-qaralama
@@ -24969,6 +25008,12 @@ hoti-hoti
 hotullutu
 hotullutulux'
 houge
+hoummos
+hoummous
+hoummus
+houmos
+houmous
+houmus
 hour
 houralan
 hourgalanmax
@@ -25048,6 +25093,7 @@ hozi
 hozigi
 hozilix
 hozu
+hrisa
 hualammax
 huar
 huas
@@ -25134,7 +25180,15 @@ humeqa
 humermax
 humevi
 humma'
+hummas
 hummet
+hummis
+hummos
+hummous
+hummus
+hummusiyas
+humos
+humous
 humq
 humre
 humum
@@ -25622,6 +25676,7 @@ ifalli
 ifate
 ifaze
 ifcin
+ifelfel
 iffet
 iffetli
 iffetperver
@@ -28104,6 +28159,7 @@ j
 jaket
 jale
 jaluz
+jameed
 jandarmaliq
 jandarmeriya
 janr
@@ -28146,6 +28202,7 @@ jmixdograyan
 jokey
 jonqlyorluq
 jonqlyur
+joshpara
 julide
 julidemu
 julik
@@ -29798,6 +29855,7 @@ kezalik
 keze-kuze
 kezm
 kezzab
+khalva
 ki
 kibar
 kibarane
@@ -34043,6 +34101,7 @@ masdariz
 mase
 masebeq
 masedeq
+maseer
 maselef
 maseva
 masin
@@ -36781,6 +36840,7 @@ misger
 misgerlik
 misgit
 mishamis
+mishsh
 misil-misil
 misildama
 misildamaq
@@ -54994,6 +55054,7 @@ sferik
 sfinks
 shamiyat
 shebakia
+shishbarak
 sho'rva
 shoorba
 shorba
@@ -55004,6 +55065,7 @@ shorpur
 shorwa
 shurbo
 shurpa
+shushbarak
 si
 si'b
 siam
@@ -62462,6 +62524,7 @@ tusbalan
 tusbali
 tusen
 tuser
+tushpera
 tuslama
 tuslamaq
 tuslanma
@@ -65098,6 +65161,7 @@ xaltura
 xalturaci
 xalturaciliq
 xalvar
+xalwo
 xalxal
 xalyar
 xam
