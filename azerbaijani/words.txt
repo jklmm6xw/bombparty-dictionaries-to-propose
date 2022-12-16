@@ -22,6 +22,7 @@ abadlasdirmaq
 abadlasma
 abadlasmaq
 abadliq
+abadliq-quruculuq
 abajur
 abajurlu
 abak
@@ -188,7 +189,31 @@ aciq
 aciq-acigina
 aciq-askar
 aciq-aydin
+aciq-qapali
+aciq-qapi
+aciq-qara
+aciq-qaramtil
+aciq-qaynaq
+aciq-qaynaqli
+aciq-qehveyi
+aciq-qehveyi-sari
+aciq-qehveyiden
+aciq-qehveyidir
 aciq-qiciq
+aciq-qirmizi
+aciq-qirmizidan
+aciq-qirmizidir
+aciq-qirmizimtildir
+aciq-qizili
+aciq-qonur
+aciq-qonurdan
+aciq-qonurdur
+aciq-qonursonradan
+aciq-qonuru
+aciq-qonurumtul
+aciq-qum
+aciq-quru
+aciq-qydin
 aciq-saciq
 aciqarpiz
 aciqca
@@ -742,6 +767,7 @@ agrix
 agrixci
 agriyan
 agruz
+agsaq-qallar
 agsaqqal
 agsaqqalliq
 agsese
@@ -1193,6 +1219,7 @@ alcalmaq
 alcaltma
 alcaltmaq
 alcaq
+alcaq-qayaliq
 alcaqboy
 alcaqca
 alcaqcasina
@@ -1298,6 +1325,7 @@ alinmaq
 alinmaz
 alinmazliq
 alinnig
+alinq-qanqri
 aliq
 aliq-aliq
 aliqedr
@@ -1771,6 +1799,7 @@ aptekce
 aptekci
 aptekcilik
 aq
+aq-qoyunlu
 aqava
 aqcaduzd
 aqcavaz
@@ -1905,6 +1934,7 @@ arba
 arbitr
 arbitraj
 arcan
+arcaq-qala
 ard
 ardanis
 ardic
@@ -2252,6 +2282,7 @@ asipisi
 asiq
 asiq-asiq
 asiq-mesuq
+asiq-qaralama
 asiqane
 asiqboylu
 asiqhengi
@@ -3094,6 +3125,7 @@ azadfikirlilik
 azadi
 azadiyyet
 azadliq
+azadliq-qanunun
 azadliqseven
 azadliqsever
 azadmahi
@@ -3469,6 +3501,7 @@ bagistan
 bagiya
 baglama
 baglamaq
+baglamaq-qifillamaq
 baglamax
 baglamca
 baglanc
@@ -3652,6 +3685,7 @@ balina
 balinc
 balincuzu
 baliq
+baliq-qaralama
 baliqbeli
 baliqci
 baliqcil
@@ -3686,6 +3720,7 @@ balneoloji
 balneuloq
 balqabagi
 balqabaq
+balqabaq-qabaq
 balsuzen
 balta
 baltabic
@@ -4301,6 +4336,7 @@ bayramqurdu
 bayramsayagi
 bayramyemisi
 bayraq
+bayraq-qaralama
 bayraqci
 bayraqdar
 bayraqdasiyan
@@ -7147,6 +7183,8 @@ bulanma
 bulanmaq
 bulanti
 bulaq
+bulaq-qaralama
+bulaq-qiz
 bulaqotu
 bulasdirilma
 bulasdirilmaq
@@ -7604,6 +7642,7 @@ buzlanma
 buzlanmaq
 buzlanmis
 buzlaq
+buzlaq-qar
 buzlu
 buzluq
 buzme
@@ -8512,6 +8551,7 @@ cebbexane
 cebe
 cebel
 cebeli
+cebelluttariq-qaralama
 cebepus
 ceberut
 cebexane
@@ -10409,6 +10449,7 @@ copcu
 copculuk
 copix'
 copluk
+coppinq-qiqantollit
 copuk
 copur
 copurlasma
@@ -11185,6 +11226,7 @@ daglamaq
 daglamax
 daglanma
 daglanmaq
+daglarqirisiq-qayma
 daglatdirma
 daglatdirmaq
 daglatma
@@ -11192,6 +11234,9 @@ daglatmaq
 dagli
 dagliliq
 dagliq
+dagliq-qayaliq
+dagliq-qerb
+dagliq-qirisiqliq
 daglo
 dagmadil
 dagnovruzu
@@ -13788,6 +13833,7 @@ dilimlenmek
 dilimletme
 dilimletmek
 dilimli
+dilimyureq-qubden
 diliqisa
 diliqisaliq
 dilir
@@ -14047,6 +14093,7 @@ diplomcu
 diplomlu
 diplomsuz
 diplum
+diq-qet
 diqasin
 diqi
 diqili
@@ -15093,6 +15140,8 @@ dostlasdirmaq
 dostlasma
 dostlasmaq
 dostluq
+dostluq-qardasliq
+dostluq-qardasliqdan
 dostperest
 dostperestlik
 dostu
@@ -18653,6 +18702,7 @@ esperanto
 esperantocu
 esperek
 esq
+esq-qalmaqalli
 esqal
 esqbaz
 esqbazliq
@@ -20820,6 +20870,7 @@ gelincik
 gelincik-gelincik
 gelinertdemez
 gelingormesi
+gelinirhuquq-qaralama
 gelinlik
 gelinqaytaran
 gelinqirqici
@@ -24629,6 +24680,7 @@ homoseksualizm
 hompolov
 honaz
 honda
+honkonq-qaralama
 honkure-honkure
 honkurme
 honkurmek
@@ -24944,6 +24996,7 @@ hunut
 hunux'
 hunux'lemmex'
 huquq
+huquq-qaralama
 huquqcu
 huquqi
 huquqlu
@@ -25066,6 +25119,7 @@ huzuz
 huzuzat
 huzuzbexs
 huzzar
+hyonq-qyu
 i
 iade
 iane
@@ -26411,6 +26465,7 @@ instansiya
 instinkt
 instinktiv
 institut
+institutuserq-qerb
 instrumental
 instrumentalci
 instrumentovka
@@ -26627,6 +26682,7 @@ iranli
 iransunas
 iransunasliq
 iraq
+iraq-qaralama
 iraqi
 iraqlasdirilma
 iraqlasdirilmaq
@@ -26763,6 +26819,7 @@ irmek
 irmemmek
 irpe
 irq
+irq-qaralama
 irqa
 irqci
 irqcilik
@@ -26958,6 +27015,8 @@ isinismek
 isinme
 isinmek
 isiq
+isiq-qaranliq
+isiq-qelem
 isiqlandirici
 isiqlandirilma
 isiqlandirilmaq
@@ -28633,6 +28692,7 @@ keciayaq
 kecici
 kecicilik
 kecid
+kecidleriraq-qaralama
 kecidli
 keciemceyi
 kecilis
@@ -29788,6 +29848,7 @@ kinosunas
 kinosunasliq
 kinotebtr
 kinoxronika
+kinq-qala
 kinsiz
 kintirix'li
 kinu
@@ -33117,6 +33178,7 @@ luhum
 luidor
 luk
 luknet
+luksemburq-qaralama
 lukurd
 lukut
 lukutlamag
@@ -33478,6 +33540,8 @@ malcet
 malciyet
 maldar
 maldarliq
+maldarliq-qoyunculuq
+maldarliq-qoyunculuqla
 maldili
 maleh
 malen
@@ -34878,6 +34942,8 @@ memanietsiz
 memar
 memarbn
 memarliq
+memarliq-qaralama
+memarliq-quruculuq
 memat
 memati
 memdud
@@ -35092,6 +35158,7 @@ mentalitet
 menteqe
 menter
 mentiq
+mentiq-qaralama
 mentiqce
 mentiqci
 mentiqi
@@ -35497,6 +35564,7 @@ mesellenmek
 meselli
 mesemme
 mesenat
+meseq-qet
 meseqiran
 meseqirma
 meseqqet
@@ -39248,6 +39316,7 @@ muzu
 muzula
 muzuri
 muzurr
+myureq-qubden
 n
 na
 naaferide
@@ -41179,6 +41248,7 @@ obyektivizm
 obyektivlik
 oc
 ocaq
+ocaq-qurbangah
 ocaqci
 ocaqciliq
 ocaqliq
@@ -42252,6 +42322,7 @@ oynanilmaq
 oynanma
 oynanmaq
 oynaq
+oynaq-qigirdaq
 oynaqlama
 oynaqlamaq
 oynaqlasma
@@ -42508,6 +42579,7 @@ palazparca
 palazqulaq
 palaztoxuyan
 palciq
+palciq-qeyzer
 palciqci
 palciqciliq
 palciqlama
@@ -42762,6 +42834,17 @@ parlament
 parlamentarizm
 parlamentli
 parlaq
+parlaq-qara
+parlaq-qaradir
+parlaq-qehveyi
+parlaq-qehveyidir
+parlaq-qirmiz
+parlaq-qirmizi
+parlaq-qirmizidan
+parlaq-qizili
+parlaq-qizilidan
+parlaq-qonur
+parlaq-qum
 parlaqliq
 parlatma
 parlatmaq
@@ -44650,8 +44733,11 @@ qabalaxlamax
 qabaliq
 qaban
 qabaq
+qabaq-qabaga
 qabaq-qarsi
+qabaq-qaytarmalar
 qabaq-qenser
+qabaq-quzey
 qabaqca
 qabaqcadan
 qabaqcil
@@ -44774,6 +44860,10 @@ qacan
 qacaq
 qacaq-qacaq
 qacaq-quldur
+qacaq-quldurdan
+qacaq-quldurlara
+qacaq-quldurlardan
+qacaq-quldurlarin
 qacaqac
 qacaqci
 qacaqciliq
@@ -44812,6 +44902,7 @@ qaclasmaq
 qacliq
 qacma
 qacmaq
+qacmaq-ququ
 qacqac
 qacqayara
 qacqin
@@ -44951,6 +45042,7 @@ qalanma
 qalanmaq
 qalanteriya
 qalaq
+qalaq-qalaq
 qalaqlama
 qalaqlamaq
 qalaqlanma
@@ -45598,6 +45690,7 @@ qarapusex'
 qaraqabaq
 qaraqabaqliq
 qaraqalpaq
+qaraqalpaq-qazax
 qaraqalpaqca
 qaraqancir
 qaraqandir
@@ -45962,6 +46055,7 @@ qarsmaq
 qarsmax
 qarsov
 qarsux
+qarsvq-qarsiya
 qart
 qart-qart
 qart-qurt
@@ -46028,6 +46122,7 @@ qasinma
 qasinmaq
 qasinti
 qasiq
+qasiq-qasiq
 qasiqasi
 qasiqbagi
 qasiqci
@@ -46501,6 +46596,7 @@ qazimaq
 qazinmaq
 qazinti
 qaziq
+qaziq-qaziq
 qaziqumuq
 qaziqurdali
 qazix
@@ -47870,6 +47966,7 @@ qinna
 qinnajix
 qinnamax
 qinnax
+qinq-qinq
 qinqa
 qinqili
 qinqilix
@@ -47990,9 +48087,13 @@ qirinc
 qirinti
 qirip
 qiriq
+qiriq-qabiq
 qiriq-qiriq
+qiriq-qiriqdir
 qiriq-quraq
 qiriq-quruq
+qiriq-quruqlar
+qiriq-quruqlarin
 qiriq-sokuk
 qiriq-tokuk
 qiriqci
@@ -48003,6 +48104,8 @@ qiris-qiris
 qirisdirma
 qirisdirmaq
 qirisiq
+qirisiq-qayma
+qirisiq-qaymali
 qirisiqli
 qirisiqliq
 qirisma
@@ -48876,6 +48979,7 @@ qonurlasma
 qonurlasmaq
 qonurluq
 qonursu
+qonurumtraq-qirmizi
 qonurumtul
 qonusma
 qonusmaq
@@ -49334,6 +49438,7 @@ qubur
 quc
 qucal
 qucaq
+qucaq-qucaq
 qucaqlama
 qucaqlamaq
 qucaqlanma
@@ -49456,6 +49561,7 @@ qulangul
 qulapan
 qulaparan
 qulaq
+qulaq-qulaq
 qulaqalti
 qulaqardi
 qulaqbalisi
@@ -49604,6 +49710,7 @@ quncar
 quncek
 qundag
 qundaq
+qundaq-qundaq
 qundaqbagi
 qundaqci
 qundaqlama
@@ -50129,6 +50236,7 @@ quzuluq
 quzuotaran
 quzuqarni
 quzuqulagi
+qvanq-qai
 qvardiya
 qvardiyaci
 qvayula
@@ -52244,6 +52352,8 @@ sarimaq
 sarimcax
 sarimecen
 sarimsaq
+sarimsaq-qatiqla
+sarimsaq-qoxulu
 sarimsaqli
 sarimsaqotu
 sarimsov
@@ -53371,6 +53481,7 @@ selbesel
 selbi
 selc
 selcem
+selcuq-qipcaq
 selcuqi
 selcuqlar
 seldireme
@@ -54188,6 +54299,11 @@ serpis
 serpmek
 serpus
 serq
+serq-qerb
+serq-qerbden
+serq-qerbe
+serq-qerbi
+serq-qutb
 serqafan
 serqapan
 serqen
@@ -55286,6 +55402,7 @@ sinifsiz
 sinimex'
 sinin
 siniq
+siniq-qala
 siniq-salxaq
 siniq-siniq
 siniq-sokuk
@@ -55969,6 +56086,7 @@ siyahbext
 siyahdil
 siyahe
 siyahi
+siyahisiiraq-qaralama
 siyahiyaalma
 siyahkar
 siyahruzgar
@@ -56130,6 +56248,7 @@ slem
 slemli
 slenq
 sleyf
+slezviq-qolsteyn
 slif
 slix
 slovakca
@@ -58478,6 +58597,7 @@ taxtapuslu
 taxtasuat
 taxtavend
 taxtax
+taxtayaylaq-qirxbulaq
 taxtayonan
 tay
 tay-beraber
@@ -61395,6 +61515,12 @@ tornaci
 tornaciliq
 toros
 torpaq
+torpaq-qazinti
+torpaq-qiymetlendirme
+torpaq-qrunt
+torpaq-qruntda
+torpaq-qruntlarinin
+torpaq-qruntun
 torpaqalti
 torpaqarasi
 torpaqbasdi
@@ -61631,6 +61757,7 @@ toysumax
 toysunmax
 toysuz
 toyuq
+toyuq-qusdur
 toyuqbiti
 toyuqciceyi
 toyuqculuq
@@ -62080,6 +62207,7 @@ tursu
 tursubadimcan
 tursulu
 tursuluq
+tursuluq-qeleviliyin
 tursulux
 tursuma
 tursumaq
@@ -62203,6 +62331,7 @@ tutulma
 tutulmaq
 tutulmaz
 tutulmus
+tutulurhuquq-qaralama
 tutulxarek
 tutum
 tutumcul
@@ -63004,6 +63133,9 @@ usanmaq
 usanmaz
 usanmazliq
 usaq
+usaq-qacqin
+usaq-qadin
+usaq-qadin-qoca
 usaqcanli
 usaqcanliliq
 usaqcasina
@@ -63788,6 +63920,7 @@ vaxtli-vaxtsiz
 vaxtsiz
 vay
 vayali
+vayanq-qolek
 vayaqulu
 vaydaqeher
 vaye
@@ -66318,6 +66451,7 @@ xristianlasma
 xristianlasmaq
 xristianlasmis
 xristianliq
+xristianliq-qaralama
 xrizantem
 xrom
 xromatik
@@ -66973,6 +67107,7 @@ yan-yani
 yan-yore
 yana
 yanacaq
+yanacaq-qaz
 yanacaqli
 yanacaqsiz
 yanacaqsizliq
@@ -67603,6 +67738,7 @@ yasilbasli
 yasilgozlu
 yasilimsov
 yasilimtil
+yasilimtil-aciq-qonur
 yasilimtraq
 yasillama
 yasillamaq
@@ -67968,6 +68104,8 @@ yaylamaq
 yaylanma
 yaylanmaq
 yaylaq
+yaylaq-qislaga
+yaylaq-qislaq
 yaylaqci
 yaylaqlama
 yaylaqlamaq
@@ -68961,6 +69099,8 @@ yonma
 yonmaq
 yonnesdimex'
 yonnu
+yonq-qil
+yonq-quq
 yonqarlama
 yonqarlamaq
 yonqarlanma
