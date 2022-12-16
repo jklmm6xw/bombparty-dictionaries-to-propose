@@ -3618,6 +3618,7 @@ bakhlava
 baki
 bakir
 bakire
+baklava
 baklavah
 baklawa
 bakllava
@@ -5176,6 +5177,8 @@ berkitmek
 berkix'
 berklik
 berklikolcen
+berkoukes
+berkouks
 berkut
 berli-bezekli
 bermax
@@ -8310,8 +8313,12 @@ carcilamax
 carcu
 carcube
 carcur
+cardamom
+cardamon
+cardamum
 cardaq
 cardaqli
+cardimum
 care
 careger
 careh
@@ -9452,6 +9459,14 @@ cezvali
 cezver
 cezzab
 cezzar
+chakhchoukha
+charmoula
+chebakia
+chekhechoukha
+chermoula
+chorba
+chraime
+chreime
 ci
 cib
 cib-cib
@@ -9938,6 +9953,7 @@ cintaldan
 cintir
 cinxilqet
 cinxir
+ciorba
 cipalix
 cipar
 cipban
@@ -10512,6 +10528,7 @@ congele
 conme
 conmek
 conuk
+coos-coos
 cop
 copbasi
 copcu
@@ -10538,6 +10555,7 @@ corabli
 corabtoxuyan
 coralasmeg
 coravalti
+corba
 corcor
 coregqatigi
 corek
@@ -10588,6 +10606,8 @@ cotur
 coturru
 coumag
 cous
+cous-cous
+couscous
 cov
 cov'
 cov'an
@@ -11036,6 +11056,7 @@ curux
 cus
 cusan
 cusbalan
+cuscuz
 cusis
 cusisbar
 cuska
@@ -17445,9 +17466,11 @@ elkimya
 elkimyaci
 elkosdu
 ellaf
+ellaichi
 ellam
 ellame
 ellamelik
+ellchi
 ellem-ellem
 ellem-qellem
 ellemax
@@ -22315,6 +22338,8 @@ gozyoruculuq
 gozyumma
 gqsix
 gqsmax
+griouech
+griwech
 gubi
 gubre
 gubreleme
@@ -22777,6 +22802,7 @@ gusenisinlik
 gusfend
 gushus
 gusil
+gusku
 gust
 gusvare
 guszed
@@ -23100,6 +23126,7 @@ harad
 harada
 haradan
 haragas
+haraime
 harali
 haram
 harami
@@ -31717,6 +31744,7 @@ kuskunluk
 kuskurmek
 kuskurtme
 kuskurtmek
+kuskus
 kusme
 kusmek
 kusmos
@@ -33446,6 +33474,8 @@ mafraq
 mafras
 mafrax
 mafraxlix
+maftool
+maftoul
 mag
 magal
 magalan
@@ -36943,6 +36973,7 @@ modux'
 modyam
 modyem
 mofet
+moghrabieh
 mogikan
 mogrug
 mohbit
@@ -40918,6 +40949,7 @@ nizelemek
 nizgali
 nizniz
 nizqalamax
+njallani
 no
 noar
 nobat
@@ -54882,6 +54914,17 @@ sezmek
 sfera
 sferik
 sfinks
+shebakia
+sho'rva
+shoorba
+shorba
+shorbas
+shorpa
+shorpo
+shorpur
+shorwa
+shurbo
+shurpa
 si
 si'b
 siam
@@ -56632,6 +56675,7 @@ sormezebugda
 sormux
 sornax
 sornu
+sorpa
 sorqogali
 sorran
 sorratan
@@ -58160,6 +58204,8 @@ tacdar
 tacdarane
 tacdari
 tacend
+tacermilt
+tacermult
 tacik
 tacikce
 tacir
@@ -66726,6 +66772,7 @@ xurmaliq
 xurmayi
 xurmud
 xurnix'
+xurpa
 xurrem
 xurs
 xursan
