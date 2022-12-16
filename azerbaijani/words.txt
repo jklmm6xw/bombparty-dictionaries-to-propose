@@ -111,6 +111,7 @@ abstraktlasdirmaq
 abstraktlasma
 abstraktlasmaq
 absurd
+abudaraho
 abuliya
 abune
 abuneci
@@ -994,6 +995,8 @@ akvarel
 akvarelci
 akvarium
 al
+al-bajjaria
+al-bujari
 al-elvan
 al-qirmizi
 al-yasil
@@ -1860,11 +1863,13 @@ araduzelden
 aragasdammax
 aragh
 aragnane
+aragy
 arahekimi
 arak
 arakceyevcilik
 arakesilmezlik
 arakesme
+araki
 aral
 aralama
 aralamaq
@@ -1917,6 +1922,7 @@ araqceken
 araqci
 araqcin
 araqcinli
+araqi
 arasdirici
 arasdirilma
 arasdirilmaq
@@ -2228,6 +2234,8 @@ asdirilmaq
 asdirimca
 asdirma
 asdirmaq
+aseed
+aseedah
 asef
 asefane
 asefi
@@ -2243,6 +2251,8 @@ asfaltlanmaq
 asfaltlanmis
 asfaltli
 asfaltsiz
+asfanakhia
+asfanakhyh
 asgulu
 asi
 asi-kifir
@@ -2251,6 +2261,8 @@ asib-dasma
 asib-dasmaq
 asibresan
 asid
+asida
+asidah
 asif
 asig
 asigci
@@ -2623,6 +2635,7 @@ atributivlik
 atropin
 atsabalidi
 atsifet
+attar
 attase
 attestasiya
 attestat
@@ -2698,6 +2711,7 @@ avece
 aveng
 averdgah
 avesta
+avgotaraho
 aviasiya
 aviasiyaci
 aviator
@@ -3278,6 +3292,7 @@ babatliq
 babay
 babayi-emir
 babayogurt
+babbouche
 babekiler
 babet
 babi
@@ -3322,6 +3337,8 @@ bacilasmaq
 baciliq
 bacioglu
 baciqizi
+baclava
+baclawa
 bacsitan
 bad
 bad-badek
@@ -3473,6 +3490,8 @@ bagdamas
 bagdanus
 bagdas
 bagdati
+baghlava
+baghrir
 bagir
 bagir-badas
 bagir-ofge
@@ -3539,6 +3558,7 @@ bagtamil
 bah
 bah-bah
 baha
+bahaarat
 bahaci
 bahacil
 bahaciliq
@@ -3560,6 +3580,7 @@ bahaliq
 bahalu
 bahanqu
 bahar
+baharat
 baharbend
 baharbet
 bahari
@@ -3585,6 +3606,7 @@ bajabaja
 bajaqusu
 bajaxli
 bajilix
+bajjaria
 bajqin
 bak
 bakal
@@ -3592,9 +3614,13 @@ bakalavr
 bakemal
 bakenabrd
 bakenbardli
+bakhlava
 baki
 bakir
 bakire
+baklavah
+baklawa
+bakllava
 bakteriologiya
 bakterioloji
 bakteriuloq
@@ -3637,6 +3663,7 @@ balagagiren
 balalama
 balalamaq
 balalayka
+balaleet
 balali
 balaliq
 balaman
@@ -3682,12 +3709,15 @@ balerina
 balet
 baletmeyster
 baleymirsel
+balghur
 balgoz
 balgulu
+balgur
 bali
 balide
 balig
 baligudan
+balila
 balin
 balina
 balinc
@@ -3763,12 +3793,15 @@ bamazi
 bamba
 bambalaca
 bambalamax
+bambaloni
+bambalouni
 bambasqa
 bambaz
 bambig
 bambili
 bamdad
 bameze
+bamia
 bamiye
 ban
 bana
@@ -3835,6 +3868,9 @@ baqala
 baqata
 baqi
 baqir
+baqlava
+baqlawa
+baqlawah
 baqqal
 baqqaliyye
 baqqalliq
@@ -4191,8 +4227,10 @@ bataqlasma
 bataqlasmaq
 bataqli
 bataqliq
+batarekh
 batareya
 batarqi
+bataw
 batbat
 batdaq
 batdax
@@ -4379,6 +4417,7 @@ bazdasmax
 bazdid
 bazdix
 bazedov
+bazeen
 bazende
 bazerb
 bazergan
@@ -4388,6 +4427,7 @@ bazice
 bazicegah
 bazil
 bazilamax
+bazin
 bazirgan
 bazirganbasi
 bazis
@@ -4646,6 +4686,7 @@ begel
 begele
 begerye
 beggah
+beghrir
 begi
 begl
 begus
@@ -5187,6 +5228,7 @@ besah
 besait
 besalet
 besan
+besarah
 besaret
 besaset
 besatan
@@ -5260,6 +5302,7 @@ besqepiklik
 besqramliq
 besret
 bess
+bessara
 bessas
 bessi
 bessinifli
@@ -5609,6 +5652,7 @@ bicesum
 biceten
 bicex'
 biceyne
+bichak
 bicici
 bicilme
 bicilmek
@@ -6357,6 +6401,7 @@ bismi-teala
 bismillah
 bismis
 bisqi
+bissara
 bist
 bistan
 bister
@@ -6644,7 +6689,9 @@ bolen
 boleru
 bolex'
 bolge
+bolghur
 bolgu
+bolgur
 bollamax
 bollanma
 bollanmaq
@@ -6819,10 +6866,15 @@ bosurunqu
 bot
 botanik
 botanika
+botarga
+botargo
 boti
 botinka
+bottarga
+boulgour
 bourdex'
 bous
+boutargue
 bova
 bovl
 boy
@@ -7050,6 +7102,7 @@ bronxit
 brosura
 brovhabrov
 broyler
+bsisa
 bu
 buana
 buanqilamax
@@ -7229,6 +7282,7 @@ bulendpaye
 bulendpervaz
 buletdemex'
 bulfuzul
+bulghur
 bulgumax
 bulgur
 bulh
@@ -7355,10 +7409,12 @@ burgac
 burgacli
 burganc
 burgez
+burghul
 burgitdamax
 burgu
 burguci
 burgucu
+burgul
 burgulama
 burgulamaq
 burgulanma
@@ -7367,6 +7423,7 @@ burgulatmaq
 burhan
 buride
 buriya
+burjari
 burjualasma
 burjualasmaq
 burjuaziya
@@ -7528,6 +7585,9 @@ butafuriya
 butalammax
 butali
 butana
+butarga
+butariga
+butarkhah
 butcu
 bute
 buterarud
@@ -21351,6 +21411,7 @@ gezmek
 gezne
 gezyazma
 gezzek
+ghrayef
 gibb
 gibbon
 gic
@@ -23151,6 +23212,7 @@ havaziring
 havaziringi
 haven
 havi
+haviar
 havildamax
 havir
 havirmax
@@ -27945,6 +28007,7 @@ jandarmaliq
 jandarmeriya
 janr
 janrist
+jarish
 jarqun
 je
 jelatin
@@ -34105,6 +34168,7 @@ mazutlanma
 mazutlanmaq
 mazutlu
 mazutluq
+mchahda
 me'bed
 me'bedgah
 me'ber
@@ -37210,6 +37274,7 @@ mozelle
 mozmoz
 mozu
 mozux
+mpaklava
 mu
 mu'ti
 muadet
@@ -42491,6 +42556,8 @@ ozuyeriyen
 ozvadina
 ozyannan
 p
+p'ahlava
+p'akhlava
 pa
 pabbabaci
 pabeda
@@ -42530,6 +42597,7 @@ pagaca
 pagiz
 pagizlamax
 pah
+pahklava
 paho
 paj
 pak
@@ -42541,6 +42609,7 @@ pakdin
 pake'tiqad
 paker
 paket
+pakhlava
 paki
 pakize
 pakizeeda
@@ -42552,6 +42621,7 @@ paklama
 paklamaq
 paklanma
 paklanmaq
+paklava
 pakliq
 pakmesreb
 pakneseb
@@ -44244,6 +44314,7 @@ potug
 potus
 potusdammag
 potuye
+poutargue
 povest
 povestci
 povidlo
@@ -46311,6 +46382,7 @@ qatranlasma
 qatranlasmaq
 qatranlatmaq
 qatranli
+qattar
 qatugardi
 qaupvaxt
 qav
@@ -50986,6 +51058,7 @@ rievi
 rif'et
 rifah
 rifahiyyet
+riffoth
 rifidene
 rifq
 rig
@@ -52290,6 +52363,7 @@ saraf
 sarafan
 sarag
 saragan
+saragli
 saraket
 saraketdemeg
 saral
@@ -58059,6 +58133,7 @@ tabir
 tabirga
 tabis
 tabisgah
+tabissart
 tabistan
 tabix
 tablama
@@ -58178,6 +58253,7 @@ talislar
 talit
 talix
 talk
+talkhcha
 talmud
 talun
 talvar
@@ -58219,6 +58295,7 @@ tamamlanma
 tamamlanmaq
 tamamlayici
 tamamliq
+tamarakt
 tamarzi
 tamarziliq
 tamasa
