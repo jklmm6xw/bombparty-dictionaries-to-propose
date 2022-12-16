@@ -1273,6 +1273,7 @@ aligovher
 alihe
 alihimmet
 alim
+alim-pedaqoqlarin
 alim-satim
 alimane
 alimca
@@ -4128,6 +4129,7 @@ bassirma
 bassiz
 bassiz-ayaqsiz
 bassizliq
+bastakar-pedaqoq
 bastan
 bastaxtasi
 basxozar
@@ -12497,6 +12499,7 @@ demag
 demagac
 demalan
 demaqoqcasina
+demaqoqlarin
 demaqoqlasmaq
 demaqoqluq
 demaqugiya
@@ -22789,6 +22792,7 @@ hajiqox
 hakeza
 haki
 hakim
+hakim-pedaqoqumuz
 hakimane
 hakimiyyet
 hakimlik
@@ -27916,6 +27920,7 @@ juliklik
 juri
 jurnal
 jurnalist
+jurnalist-pedaqoq
 jurnalistik
 jurnalistika
 jurnalistlik
@@ -29710,6 +29715,7 @@ kimsesizlik
 kimya
 kimya'
 kimyaci
+kimyaci-pedaqoq
 kimyager
 kimyagerlik
 kimyalasdirilma
@@ -33001,6 +33007,8 @@ lopuq
 loqarifm
 loqarifmleme
 loqarifmlemek
+loqoqrafik-sillabik
+loqoqramlari
 loqqalox
 loqqi
 loqqu
@@ -33215,6 +33223,7 @@ maaf
 maal
 maarif
 maarifci
+maarifci-pedaqoq
 maarifcilik
 maariflendirilme
 maariflendirilmek
@@ -35601,6 +35610,7 @@ mesnun
 mesok
 mesq
 mesqci
+mesqci-pedaqoq
 mesqet
 mesqeturre's
 mesqub
@@ -37360,6 +37370,8 @@ muelleqe
 muellif
 muelliflik
 muellim
+muellim-pedaqoq
+muellim-pedaqoqlar
 muellimane
 muellime
 muellimlik
@@ -38381,6 +38393,7 @@ musiqar
 musiqi
 musiqibaz
 musiqici
+musiqici-pedaqoq
 musiqicilik
 musiqili
 musiqilik
@@ -42993,7 +43006,19 @@ pedant
 pedantizm
 pedantliq
 pedaqoji
+pedaqoq
+pedaqoq-alim
+pedaqoq-assistent
+pedaqoq-baletmeyster
+pedaqoq-rassam
+pedaqoq-teskilatcisi
+pedaqoq-yazici
+pedaqoq-yazilicari
+pedaqoqlar
+pedaqoqlardan
+pedaqoqlari
 pedaqoqluq
+pedaqoqu
 pedaqugika
 pedaquq
 pede
@@ -43013,6 +43038,7 @@ pedikur
 pedikurcu
 pedinstitut
 pedmekteb
+pedoqoqlari
 pedrud
 pedsovet
 peg
@@ -43497,6 +43523,7 @@ pianinocu
 pianizm
 piano
 pianocu
+pianocu-pedaqoqu
 pibno
 pibstr
 pic
@@ -44222,6 +44249,7 @@ problematiklik
 produser
 professional
 professor
+professor-pedoqoqu
 professorluq
 professura
 profilaktik
@@ -50495,6 +50523,7 @@ reiyyetnevaz
 reiyyetperest
 reiyyetperver
 rejim
+rejissor-pedaqoq
 rejissorluq
 rejissur
 rejissura
@@ -51603,6 +51632,7 @@ saim
 saiq
 saiqe
 sair
+sair-pedaqoq
 sairane
 saire
 sairkonullu
@@ -55162,6 +55192,12 @@ sinaq
 sinaqci
 sinaqli
 sinaqoq
+sinaqoqlara
+sinaqoqlarin
+sinaqoqlarindan
+sinaqoqu
+sinaqoqun
+sinaqoqunu
 sinav
 sinaver
 sinax
@@ -55217,6 +55253,7 @@ sinelik
 sinelli
 sinemax
 sinemeg
+sineqoqlar
 siner
 sinesuzan
 sineva
@@ -55295,6 +55332,7 @@ sinonimik
 sinonimika
 sinonimiya
 sinonimlik
+sinoqoqunun
 sinou
 sinov
 sinqa
@@ -57920,6 +57958,7 @@ tacikce
 tacir
 taciri
 tacirlik
+tacrubaci-pedaqoq
 taddim
 tadim
 tae
@@ -58297,6 +58336,7 @@ tartan-partan
 tarxam
 tarxamlasmag
 tarxan
+tarzan-pedaqoq
 tarzen
 tas
 tasa
@@ -60275,6 +60315,7 @@ teskik
 teskil
 teskilat
 teskilatci
+teskilatci-pedaqoq
 teskilatciliq
 teskilati
 teskiledici
@@ -67985,6 +68026,7 @@ yazib-oxumaq
 yazib-pozmaq
 yazib-yaratmaq
 yazici
+yazici-pedaqoq
 yaziciliq
 yazili
 yazilis
