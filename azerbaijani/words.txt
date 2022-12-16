@@ -268,6 +268,7 @@ acizlesme
 acizlesmek
 acizlik
 ackal
+ackawi
 acliq
 aclug
 acma
@@ -946,9 +947,12 @@ akademik
 akademiya
 akademizm
 akasiya
+akawi
+akawieh
 akif
 akil
 akin
+akkawi
 akkordeon
 akkordeoncu
 akkreditiv
@@ -1547,6 +1551,7 @@ amansiz
 amansizliq
 amas
 amazonlar
+amba
 ambil
 ambila-ambila
 ambilmax
@@ -1647,6 +1652,7 @@ anaxdar
 anaxronizm
 anaxtar
 anayolu
+anba
 anbaan
 anbar
 anbarci
@@ -1852,8 +1858,10 @@ araciliq
 aradabir
 araduzelden
 aragasdammax
+aragh
 aragnane
 arahekimi
+arak
 arakceyevcilik
 arakesilmezlik
 arakesme
@@ -4350,6 +4358,7 @@ baytax
 bayxa
 baz
 baza
+bazaar
 bazalt
 bazar
 bazar-dukan
@@ -19696,6 +19705,7 @@ faytonculuq
 faytonsuren
 faytun
 faza
+fazaarasi
 fazil
 fazumetr
 fe
@@ -36557,6 +36567,7 @@ mirtlamaq
 mirtlanma
 mirtlanmaq
 mirvarili
+mirzaaga
 mirze
 mirzecani
 mirzelik
@@ -49372,6 +49383,7 @@ qrammofun
 qran
 qranat
 qranatatan
+qrandbazaar
 qranit
 qranliq
 qrant
@@ -52462,6 +52474,7 @@ sat
 sata
 satal
 satanaxli
+satar
 satasma
 satasmaq
 satasqan
@@ -69644,6 +69657,11 @@ yuzpus
 yuzuncu
 z
 za
+za'atar
+za'tar
+zaaier
+zaani
+zaatar
 zabag
 zabil
 zabin
@@ -69694,6 +69712,7 @@ zaglatmaq
 zagli
 zagnabit
 zaha
+zahatar
 zahi
 zahib
 zahid
@@ -69716,6 +69735,7 @@ zahirilik
 zahirperest
 zahman
 zahran
+zahtar
 zaid
 zail
 zaiq
@@ -69815,11 +69835,13 @@ zarisovka
 zaritma
 zaritmaq
 zarnaglig
+zartar
 zaru
 zarul
 zarzali
 zastava
 zat
+zataar
 zatelcenb
 zaten
 zati
@@ -69827,6 +69849,7 @@ zati-ali
 zatiqiriq
 zatiqiriqliq
 zatiyyat
+zatr
 zatulcenb
 zaturriye
 zaval
