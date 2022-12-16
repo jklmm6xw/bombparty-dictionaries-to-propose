@@ -1957,6 +1957,7 @@ ardicilliq
 ardinca
 ardo
 arebl
+arekhsas
 arena
 areste
 arestelesdirmek
@@ -10836,6 +10837,7 @@ cudmek
 cudu
 cue
 cuft
+cufta
 cug
 cugd
 cuglamaq
@@ -28237,6 +28239,8 @@ kabinet
 kabinetcilik
 kabini
 kabinka
+kabkabou
+kabkabu
 kabotaj
 kabotajci
 kabriolet
@@ -28268,6 +28272,7 @@ kafiristan
 kafirkis
 kafirlik
 kafirnehad
+kafta
 kaftan
 kaftanli
 kaftar
@@ -28275,6 +28280,8 @@ kaftarkus
 kaftarlasma
 kaftarlasmaq
 kaftarliq
+kafte
+kafteh
 kafur
 kafuri
 kafurves
@@ -28461,6 +28468,8 @@ kamilusseyr
 kamin
 kamisit
 kamkar
+kamouneya
+kamounia
 kampaniya
 kampaniyaciliq
 kamperver
@@ -28857,6 +28866,7 @@ kebab
 kebabxane
 kebade
 kebair
+kebbeh
 kebe
 kebed
 kebedi
@@ -29061,6 +29071,12 @@ kefsizlendirmek
 kefsizlesmek
 kefsizlik
 kefsken
+kefta
+keftah
+kefte
+keftedes
+keftes
+keftethes
 kefxana
 keh
 kehalet
@@ -29466,6 +29482,7 @@ kento
 kenz
 kep
 kepaze
+kepe
 kepek
 kepekleme
 kepeklemek
@@ -29751,6 +29768,7 @@ kesnis
 kesqal
 kesqan
 kesr
+kesra
 kesre
 kesret
 kesretli
@@ -29855,10 +29873,24 @@ kezalik
 keze-kuze
 kezm
 kezzab
+khabees
 khalva
+khebz
+khlea
+khlii
+khobez
+khobz
+khoubz
+khubez
+khubooz
+khubz
 ki
 kibar
 kibarane
+kibbah
+kibbe
+kibbeh
+kibe
 kiber
 kibernetika
 kibr
@@ -29926,6 +29958,7 @@ kifsimex'
 kifsinme
 kifsinmek
 kift
+kifta
 kig
 kiglamax
 kihanet
@@ -30436,12 +30469,15 @@ kodein
 kodeks
 kodex'
 kodiye
+koefte
 koer
 kof
 kofein
 kofta
 kofta-tuman
+koftah
 koftaliq
+kofte
 koga
 kogar
 kogus
@@ -30617,9 +30653,11 @@ kolonist
 koloniya
 kolonka
 kolonna
+koloocheh
 kolorist
 kolorit
 koloritli
+koloucheh
 kolpan
 kolpanli
 kolpannamax
@@ -30628,6 +30666,7 @@ kolqotqa
 kolsekilli
 kolt
 koltor
+koluce
 kolvari
 kolxana
 kolxoruzu
@@ -30945,6 +30984,7 @@ konvuy
 konyak
 konyuktiv
 konyuktivit
+koofteh
 kooperasiya
 kooperativ
 kooperativci
@@ -31225,6 +31265,7 @@ kotukcuk
 kotul
 koturge
 koudan
+koufteh
 koul
 kouz
 kov
@@ -31377,6 +31418,7 @@ kubarca
 kubarcasina
 kubarliq
 kubatura
+kubba
 kubbad
 kubeku
 kubik
@@ -31384,9 +31426,11 @@ kubizm
 kubmetr
 kubmetrlik
 kubok
+kuboos
 kubra
 kubsekilli
 kubsimex'
+kubz
 kubza
 kuc-kunar
 kuce
@@ -31444,8 +31488,10 @@ kufriyyat
 kufrperver
 kufrumex'
 kuft
+kufta
 kufte
 kuftebozbas
+kufteh
 kuftelik
 kuful
 kufyeriden
@@ -32039,6 +32085,7 @@ kvintet
 kvit
 kvorum
 kvota
+kyufte
 l
 labada
 labba
@@ -49021,6 +49068,7 @@ qoduqlanmaq
 qoduqluq
 qodur
 qodus
+qofte
 qog
 qoga
 qogaca
@@ -49792,6 +49840,7 @@ qugu
 quguldama
 quguldamaq
 quhaqu
+quibe
 qul
 qul-qaravas
 qula
@@ -58129,6 +58178,7 @@ suturban
 suturbecce
 suturxane
 sututar
+sutzukakia
 suub
 suubet
 suud
@@ -61827,6 +61877,7 @@ torpedci
 torpeddasiyan
 torpedleme
 torpedlemek
+torpedo
 torpi
 torpu
 torpudeymemis
