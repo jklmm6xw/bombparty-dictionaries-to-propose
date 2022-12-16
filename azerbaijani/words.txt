@@ -11345,6 +11345,7 @@ dahan
 dahar
 daharduz
 daharrig
+daheen
 dahi
 dahicesine
 dahilik
@@ -11481,6 +11482,7 @@ dalisinca
 dalisure
 daliyye
 dall
+dallah
 dallama
 dallamag
 dalli
@@ -12171,6 +12173,7 @@ davulbaz
 davulcu
 davulmag
 davus
+dawamesc
 daxal
 daxalca
 daxil
@@ -14601,6 +14604,7 @@ dizz
 dizzis
 dizziy
 do
+do'a
 doax
 dobbu
 dobi
@@ -14824,9 +14828,16 @@ dollex'
 dolluk
 dollux'
 dolma
+dolmadaki
+dolmades
+dolmadhes
 dolmaliq
 dolmaq
+dolmas
+dolmathes
+dolmati
 dolme
+dolmeh
 dolmus
 dolsuz
 dolsuzlendirilme
@@ -14884,6 +14895,7 @@ domcalanma
 domcalanmaq
 domdomu
 domelemmex'
+domiati
 dominat
 dominiun
 dominocu
@@ -14900,6 +14912,7 @@ domusma
 domusmaq
 domusmax
 domusuq
+domyati
 don
 donanma
 donanmaci
@@ -15467,6 +15480,7 @@ drezina
 drujina
 drujinaci
 du
+du'ah
 du-du-du
 dua
 dua-sena
@@ -15563,6 +15577,8 @@ dukanciliq
 dukandar
 dukandarliq
 dukce
+dukka
+dukkah
 dul
 dula
 dulagarti
@@ -15711,6 +15727,7 @@ duplet
 duppeduz
 duqma
 duqmat
+duqqa
 duqqaz
 duqqu
 duquy
@@ -21035,6 +21052,7 @@ gemisdirmek
 gemisme
 gemismek
 gemismex'
+gemista
 gemleme
 gemlemek
 gemlenme
@@ -31109,6 +31127,7 @@ kovkebe
 kovkebi
 kovn
 kovneyn
+kovov-toki
 kovrek
 kovreklenme
 kovreklenmek
@@ -33495,6 +33514,7 @@ mah
 mahal
 mahara
 maharaca
+mahashi
 mahatma
 mahce
 mahcebin
@@ -33533,6 +33553,7 @@ mahpeyker
 mahru
 mahrux
 mahruxsar
+mahshi
 mahsima'
 mahsuret
 mahtab
@@ -56425,6 +56446,7 @@ sofu
 sog
 sogacax
 sogan
+sogan-dolma
 soganaq
 soganbozbasi
 soganca
@@ -61438,6 +61460,8 @@ tolazlamaq
 tolazzamax
 tolemex'
 toles
+tolim
+tolimis
 tollex'
 tolstoyculuq
 tolstuvka
@@ -66881,6 +66905,7 @@ yabilasmaq
 yabiliq
 yabis
 yabise
+yabra'
 yad
 yadbud
 yaddas
@@ -68648,6 +68673,7 @@ yemisbalasi
 yemisci
 yemisli
 yemislik
+yemista
 yemleme
 yemlemek
 yemlendirilme
