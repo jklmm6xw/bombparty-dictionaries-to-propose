@@ -1948,6 +1948,7 @@ arasdirma
 arasdirmaq
 arasi
 arasikesilmez
+arasinda
 arasmaq
 arasqin
 arassuyu
@@ -5956,6 +5957,7 @@ bildiris
 bildirki
 bildirme
 bildirmek
+bildirmisdi
 bile
 bile-bile
 bilebetdan
@@ -9076,6 +9078,8 @@ cend
 cendan
 cendelesmex'
 cenden
+cendoizm
+cendoizmler
 cendun
 cene
 cene-bazar
@@ -16786,6 +16790,8 @@ egziye
 eh
 ehadis
 ehali
+ehalinin
+ehalisinin
 ehalisiz
 ehalisizlik
 ehasin
@@ -17141,6 +17147,7 @@ ekser
 ekseren
 ekseriyyen
 ekseriyyet
+ekseriyyeti
 eksetdirici
 eksetme
 eksgah
@@ -17264,6 +17271,7 @@ elaqelenme
 elaqelenmek
 elaqeli
 elaqelilik
+elaqesi
 elaqesiz
 elaqesizlik
 elardan
@@ -26771,6 +26779,7 @@ insaniyyetperver
 insaniyyetperverlik
 insaniyyetsiz
 insaniyyetsizlik
+insanlarin
 insanliq
 insanperver
 insanpervercesine
@@ -27977,6 +27986,7 @@ itqusdu
 itra'
 itret
 itsarimsagi
+itsenaistyi
 itsogani
 ittiba'
 ittibaen
@@ -29066,6 +29076,7 @@ kecirdidkden
 kecirdme
 kecirici
 keciricilik
+kecirilen
 kecirilme
 kecirilmek
 kecirim
@@ -34260,6 +34271,8 @@ marksist-leninci
 marksistcesine
 marksizm
 marksizm-leninizm
+marksizm-leninizm-maoizm
+marksizm-leninizm-maoizmler
 marksizm-leninizmler
 marksizmler
 markusii
@@ -36573,6 +36586,7 @@ mezerret
 mezg
 mezgeldey
 mezheb
+mezhebi
 mezhebsiz
 mezheke
 mezhekeci
@@ -40860,6 +40874,7 @@ neticelendirme
 neticelendirmek
 neticelenme
 neticelenmek
+neticelerine
 neticeli
 neticepezir
 neticesiz
@@ -42000,6 +42015,7 @@ olkesunas
 olkesunasliq
 olles
 olma
+olmadigini
 olmali
 olmaq
 olmaya
@@ -42917,6 +42933,7 @@ ozgun
 oziqacdi
 ozleme
 ozlemek
+ozlerini
 ozlu
 ozluluk
 ozluyunde
@@ -42944,6 +42961,7 @@ ozunenezaret
 ozunexidmet
 ozunnenbey
 ozunnenbitme
+ozunu
 ozunuceken
 ozunudartan
 ozunuidare
@@ -56639,6 +56657,8 @@ siyahdil
 siyahe
 siyahi
 siyahisiiraq-qaralama
+siyahiyaalinmasina
+siyahiyaalinmasinin
 siyahiyaalma
 siyahkar
 siyahruzgar
@@ -57082,6 +57102,7 @@ sorgoz
 sorgozluk
 sorgu
 sorgu-sual
+sorguda
 sorgunnasmax
 soristili
 sorkoke
@@ -58570,6 +58591,7 @@ sxematizm
 sxematizmler
 sxolastik
 sxolastika
+syntyi
 t
 ta
 ta'amiya
@@ -58808,6 +58830,7 @@ tan
 tana
 tanalix
 tanax
+tanidigini
 tanima
 tanimaq
 tanimazliq
@@ -61006,10 +61029,12 @@ tesisat
 teskik
 teskil
 teskilat
+teskilata
 teskilatci
 teskilatci-pedaqoq
 teskilatciliq
 teskilati
+teskilatla
 teskiledici
 teskin
 teskinedici
@@ -68040,6 +68065,7 @@ yarican
 yaricanli
 yariciddi
 yaricilpaq
+yaridan
 yarideymis
 yariger
 yarigercek
