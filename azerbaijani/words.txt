@@ -86,6 +86,7 @@ abituriyent
 abnos
 abnus
 abolisionizm
+abolisionizmler
 abordaj
 aborigen
 abort
@@ -98,6 +99,7 @@ abreviatura
 abriz
 abru
 absenteizm
+absenteizmler
 abses
 absolyut
 absorasiya
@@ -468,6 +470,7 @@ afiyet
 afiyetbexs
 afiyetefza
 aforizm
+aforizmler
 aforizmli
 afrikali
 afsar
@@ -947,6 +950,7 @@ ajur
 akademik
 akademiya
 akademizm
+akademizmler
 akasiya
 akawi
 akawieh
@@ -961,6 +965,7 @@ akkumulyasiya
 akkumulyator
 akkurd
 akmeizm
+akmeizmler
 akr
 akrixin
 akrobat
@@ -1212,6 +1217,7 @@ alban
 albanca
 albehli
 albinizm
+albinizmler
 albinus
 albom
 albuxara
@@ -1378,6 +1384,7 @@ alizdamax
 alizmax
 alkaloid
 alkoqolizm
+alkoqolizmler
 alkoqollu
 alkoqolsuz
 alkoqul
@@ -1460,6 +1467,7 @@ aloxar
 alp
 alpinist
 alpinizm
+alpinizmler
 alpotun
 alqis
 alqislama
@@ -1511,6 +1519,7 @@ altmisliq
 alto
 altruist
 altruizm
+altruizmler
 altun
 alu
 aluc
@@ -1569,6 +1578,7 @@ amenna
 amerikali
 amerikan
 amerikanizm
+amerikanizmler
 amfibiya
 amfitebtr
 amfora
@@ -1639,8 +1649,10 @@ anari-beri
 anarxist
 anarxiya
 anarxizm
+anarxizmler
 anarxo-sindikalist
 anarxo-sindikalizm
+anarxo-sindikalizmler
 anas
 anasa
 anasaceken
@@ -1653,6 +1665,7 @@ anatomik
 anatumiya
 anaxdar
 anaxronizm
+anaxronizmler
 anaxtar
 anayolu
 anba
@@ -1695,6 +1708,7 @@ anilik
 anilma
 anilmaq
 animizm
+animizmler
 anis
 anix
 anket
@@ -1759,6 +1773,7 @@ ansizliq
 anslaq
 antaqonist
 antaqonizm
+antaqonizmler
 antarktik
 antarktika
 antena
@@ -1769,6 +1784,7 @@ antik
 antinumiya
 antisemit
 antisemitizm
+antisemitizmler
 antiseptik
 antiseptika
 antisovet
@@ -1779,6 +1795,7 @@ antrakt
 antropologiya
 antropoloji
 antropomorfizm
+antropomorfizmler
 antropuloq
 antun
 antunim
@@ -1825,6 +1842,7 @@ aqilane
 aqir
 aqnostik
 aqnostisizm
+aqnostisizmler
 aqqa
 aqrar
 aqrari
@@ -2059,6 +2077,7 @@ arpaliq
 arpasuyu
 arqo
 arqotizm
+arqotizmler
 arramax
 ars
 arsala
@@ -2143,6 +2162,7 @@ arxadas
 arxadasliq
 arxaik
 arxaizm
+arxaizmler
 arxaj
 arxalanma
 arxalanmaq
@@ -2338,6 +2358,7 @@ askarca
 askarid
 askarliq
 asketizm
+asketizmler
 askifir
 aslama
 aslamaq
@@ -2499,6 +2520,7 @@ atamanliq
 atasiz
 atasiz-anasiz
 atavizm
+atavizmler
 atavul
 atayana
 atbaz
@@ -2525,6 +2547,7 @@ atdol
 atdurum
 ateist
 ateizm
+ateizmler
 atelye
 ates
 atesbar
@@ -2624,6 +2647,7 @@ atomcu
 atomistik
 atomistika
 atomizm
+atomizmler
 atqaytaran
 atqi
 atqulagi
@@ -2673,6 +2697,7 @@ avanturaci
 avanturaciliq
 avanturist
 avanturizm
+avanturizmler
 avar
 avara
 avaraciliq
@@ -2738,6 +2763,7 @@ avral
 avralciliq
 avrug
 avrupasentrizm
+avrupasentrizmler
 avsala
 avsar
 avsarlamaq
@@ -2759,6 +2785,7 @@ avtomatik
 avtomatika
 avtomatiklik
 avtomatizm
+avtomatizmler
 avtomatlasdirilma
 avtomatlasdirilmaq
 avtomatlasdirilmis
@@ -3306,6 +3333,7 @@ babilinejad
 babiliq
 babilliler
 babizm
+babizmler
 bablasma
 bablasmaq
 bablitmeg
@@ -3841,6 +3869,7 @@ banderolsuz
 bandit
 banditcesine
 banditizm
+banditizmler
 bandurcalan
 bandurcu
 bane
@@ -3869,6 +3898,7 @@ bantli
 banu
 baptist
 baptizm
+baptizmler
 baqaj
 baqajci
 baqajliq
@@ -3905,6 +3935,7 @@ baraver
 barbadan
 barbar
 barbarizm
+barbarizmler
 barbarliq
 bardag
 bardalas
@@ -4396,6 +4427,7 @@ bayraqdar
 bayraqdasiyan
 bayraqli
 bayronizm
+bayronizmler
 baysag
 baytal
 baytar
@@ -6600,6 +6632,7 @@ bizziyadet
 blank
 blankist
 blankizm
+blankizmler
 blef
 blin
 blindaj
@@ -6723,6 +6756,7 @@ bolqar
 bolqarca
 bolsevik
 bolsevizm
+bolsevizmler
 bolt
 boltelemeg
 boltelemex'
@@ -6772,6 +6806,7 @@ bomj
 bon
 bonapartist
 bonapartizm
+bonapartizmler
 bonus
 boq
 boqanmax
@@ -7092,6 +7127,7 @@ brauninq
 bravnik
 brehmen
 brehmenizm
+brehmenizmler
 brehmenlik
 brezent
 brifinq
@@ -7149,6 +7185,7 @@ budce
 budd
 buddist
 buddizm
+buddizmler
 budet
 budka
 budkaci
@@ -7473,6 +7510,7 @@ burokratcasina
 burokratik
 burokratiya
 burokratizm
+burokratizmler
 burokratlasma
 burokratlasmaq
 burokratliq
@@ -8351,6 +8389,7 @@ cariqliq
 carixfelengi
 cariye
 carizm
+carizmler
 carlama
 carlamaq
 carliq
@@ -8405,6 +8444,7 @@ carteb'
 carter
 cartist
 cartizm
+cartizmler
 carubkes
 carunsur
 carvadar
@@ -11513,6 +11553,7 @@ dalminmax
 dalon
 dalqelsemeliler
 daltonizm
+daltonizmler
 daltunik
 dalva
 dalvimmax
@@ -12005,6 +12046,7 @@ darvazali
 darvinci
 darvinist
 darvinizm
+darvinizmler
 darxetli
 das
 das-divar
@@ -12506,6 +12548,7 @@ dehum
 dehyek
 deist
 deizm
+deizmler
 dej
 dejdemex'
 dekabr
@@ -12755,6 +12798,7 @@ demokratiklesmek
 demokratiklik
 demokratiya
 demokratizm
+demokratizmler
 demokratlasma
 demokratlasmaq
 demokratliq
@@ -13272,6 +13316,7 @@ despot
 despotcasina
 despotik
 despotizm
+despotizmler
 despotluq
 dessas
 dessiri
@@ -13371,6 +13416,7 @@ detektiv
 detektor
 determinist
 determinizm
+determinizmler
 dev
 deva
 deva'
@@ -13596,6 +13642,7 @@ dialektal
 dialektik
 dialektika
 dialektizm
+dialektizmler
 dialektologiya
 dialektoloji
 dialektuloq
@@ -14082,6 +14129,7 @@ dinamit
 dinamitci
 dinamitli
 dinamizm
+dinamizmler
 dinamo
 dinamo-masin
 dinamumetr
@@ -15057,6 +15105,7 @@ doqmaci
 doqmatik
 doqmatiklik
 doqmatizm
+doqmatizmler
 doqqar
 doqqaz
 doqqazca
@@ -15469,6 +15518,7 @@ dramatiklesdirme
 dramatiklesdirmek
 dramatiklik
 dramatizm
+dramatizmler
 dramaturgiya
 dramaturji
 dramaturq
@@ -15510,6 +15560,7 @@ dualatma
 dualatmaq
 dualist
 dualizm
+dualizmler
 duax
 duaxqapba
 duayazan
@@ -17037,7 +17088,9 @@ eklektik
 eklektika
 eklektiklik
 eklektisizm
+eklektisizmler
 eklektizm
+eklektizmler
 eklil
 ekliptika
 ekme
@@ -17051,6 +17104,7 @@ ekologiya
 ekoloji
 ekonomist
 ekonomizm
+ekonomizmler
 ekrad
 ekran
 ekranlama
@@ -17122,6 +17176,7 @@ ekspozisiya
 ekspress
 ekspressionist
 ekspressionizm
+ekspressionizmler
 ekspressiv
 ekspressivlik
 ekspropribsiya
@@ -17139,6 +17194,7 @@ eksterritorialliq
 ekstra
 ekstremist
 ekstremizm
+ekstremizmler
 ekul
 ekvator
 ekvatorial
@@ -17335,6 +17391,7 @@ elektrokimyevi
 elektrolit
 elektrolitik
 elektromaqnetizm
+elektromaqnetizmler
 elektromaqnit
 elektromasin
 elektrometallurgiya
@@ -17547,6 +17604,7 @@ ellimanatliq
 ellinci
 ellinist
 ellinizm
+ellinizmler
 ellinler
 ellinq
 ellips
@@ -17830,7 +17888,9 @@ empirik
 empiriklik
 empiriokritik
 empiriokritisizm
+empiriokritisizmler
 empirizm
+empirizmler
 emr
 emrac
 emraz
@@ -18120,6 +18180,7 @@ ensiklopedist
 ensiklopediya
 ensiklopediyaci
 ensiklopedizm
+ensiklopedizmler
 ensiz
 ensizlesdirilme
 ensizlesdirilmek
@@ -18173,6 +18234,7 @@ epikriz
 epikurcu
 epikurculuk
 epikurizm
+epikurizmler
 epilepsiya
 epileptik
 epiluq
@@ -18248,6 +18310,7 @@ eqmise
 eqoist
 eqoistlik
 eqoizm
+eqoizmler
 eqran
 eqreb
 eqreba
@@ -18331,6 +18394,7 @@ erebist
 erebistika
 erebiyyet
 erebizm
+erebizmler
 ereblesdirilme
 ereblesdirilmek
 ereblesdirme
@@ -18487,6 +18551,7 @@ ermenice
 erneb
 erotik
 erotizm
+erotizmler
 erov
 eroy
 erp
@@ -18901,6 +18966,7 @@ estetcilik
 estetik
 estetika
 estetizm
+estetizmler
 eston
 estonca
 estrada
@@ -19061,6 +19127,7 @@ etnogenez
 etnoqrafik
 etnoqrafiya
 etnoqrafizm
+etnoqrafizmler
 etnuqraf
 etotu
 etqiya'
@@ -19183,6 +19250,7 @@ evezolunmazliq
 evezsiz
 evfemistik
 evfemizm
+evfemizmler
 evgelemeg
 evgende
 evkalipt
@@ -19201,6 +19269,7 @@ evnez
 evnezlemek
 evolyusionist
 evolyusionizm
+evolyusionizmler
 evolyusiya
 evrika
 evsaf
@@ -19744,6 +19813,7 @@ familiya
 familiyali
 fanatik
 fanatizm
+fanatizmler
 faner
 fani
 fanilik
@@ -19807,11 +19877,13 @@ fasiq
 fasist
 fasix
 fasizm
+fasizmler
 fasonlu
 fasun
 fata
 fatalist
 fatalizm
+fatalizmler
 fataya
 fatayer
 fatayir
@@ -19894,6 +19966,7 @@ feddan
 federal
 federalist
 federalizm
+federalizmler
 federasiya
 federativ
 feele
@@ -19971,6 +20044,7 @@ femgusa
 femi
 femida
 feminizm
+feminizmler
 fen
 fena
 fena'
@@ -20003,6 +20077,7 @@ fenuloq
 fenumen
 feodal
 feodalizm
+feodalizmler
 feqahet
 feqar
 feqari
@@ -20197,6 +20272,7 @@ fetir
 fetirsifet
 fetis
 fetisizm
+fetisizmler
 fetislesdirme
 fetislesdirmek
 fetq
@@ -20269,6 +20345,7 @@ fidan
 fidanliq
 fideist
 fideizm
+fideizmler
 fidye
 fie
 figar
@@ -20304,6 +20381,7 @@ filarmuniya
 filatelist
 filateliya
 filatelizm
+filatelizmler
 filban
 filcumle
 fildar
@@ -20606,6 +20684,7 @@ formali
 formalin
 formalist
 formalizm
+formalizmler
 formasiya
 formasiz
 format
@@ -20717,6 +20796,7 @@ frenuloq
 freqat
 freska
 freydizm
+freydizmler
 frez
 frezer
 frezerci
@@ -20817,6 +20897,7 @@ futur
 futurist
 futuristik
 futurizm
+futurizmler
 futuvvet
 futuvvetmend
 fuvaq
@@ -21351,6 +21432,7 @@ germagerm
 german
 germanistika
 germanizm
+germanizmler
 germe
 germek
 germekkimiler
@@ -21696,6 +21778,7 @@ gipsolit
 gipur
 giqant
 giqantizm
+giqantizmler
 giqantliq
 gir
 giram
@@ -23587,6 +23670,7 @@ hege
 hegelci
 hegelcilik
 hegemonizm
+hegemonizmler
 hegemonluq
 hegemun
 hehni
@@ -24716,6 +24800,7 @@ hipertonik
 hipertoniya
 hipertunik
 hipnotizm
+hipnotizmler
 hipnoz
 hipnozcu
 hipnozlama
@@ -24798,6 +24883,7 @@ hisxana
 hitdag-mitdag
 hitlerci
 hitlerizm
+hitlerizmler
 hive
 hiyel
 hiyle
@@ -24898,6 +24984,7 @@ hommus
 homogen
 homos
 homoseksualizm
+homoseksualizmler
 homous
 hompolov
 homus
@@ -25183,6 +25270,7 @@ humanist
 humanistcesine
 humanitar
 humanizm
+humanizmler
 humaqa'
 humay
 humayun
@@ -25616,6 +25704,7 @@ idealistcesine
 idealistlik
 idealize
 idealizm
+idealizmler
 ideallasdirilma
 ideallasdirilmaq
 ideallasdirma
@@ -25647,6 +25736,7 @@ idiomatik
 idiomatika
 idiotcasina
 idiotizm
+idiotizmler
 idiotluq
 idis
 idismax
@@ -26159,6 +26249,7 @@ illustrativ
 illustrator
 illuzionist
 illuzionizm
+illuzionizmler
 illuziya
 ilmag
 ilmammax
@@ -26237,6 +26328,7 @@ ima'
 imad
 imajinist
 imajinizm
+imajinizmler
 imale
 imam
 imamcume
@@ -26299,6 +26391,7 @@ imperatrice
 imperial
 imperialist
 imperializm
+imperializmler
 imperiya
 impicment
 import
@@ -26306,6 +26399,7 @@ impotensiya
 impressario
 impressionist
 impressionizm
+impressionizmler
 improvizasiya
 improvizator
 improvizatorluq
@@ -26495,6 +26589,7 @@ inden
 indesselat
 indeterminist
 indeterminizm
+indeterminizmler
 indi
 indice
 indiden
@@ -26513,6 +26608,7 @@ indiyecen
 indiyedek
 indoneziyali
 induizm
+induizmler
 induksiya
 induksiyalanma
 induksiyalanmaq
@@ -26738,6 +26834,7 @@ intermesso
 internasional
 internasionalist
 internasionalizm
+internasionalizmler
 internat
 internet
 interval
@@ -27066,6 +27163,7 @@ irqi
 irqunnisa'
 irrasional
 irrasionalizm
+irrasionalizmler
 irrasionalliq
 irriqasiya
 irs
@@ -28427,6 +28525,7 @@ kalta
 kalvil
 kalvinist
 kalvinizm
+kalvinizmler
 kalyar
 kam
 kamal
@@ -28544,6 +28643,7 @@ kapillyar
 kapital
 kapitalist
 kapitalizm
+kapitalizmler
 kapitallasdirilma
 kapitallasdirilmaq
 kapitallasdirma
@@ -28727,6 +28827,7 @@ karxane
 karyer
 karyerist
 karyerizm
+karyerizmler
 karzar
 karzat
 kas
@@ -28828,6 +28929,7 @@ katodlu
 katoliklik
 katolikus
 katolisizm
+katolisizmler
 katorqa
 katsa
 katta
@@ -30395,6 +30497,7 @@ klarnetcalan
 klarnetci
 klassik
 klassisizm
+klassisizmler
 klaviatura
 klaviaturali
 klavir
@@ -30402,6 +30505,7 @@ klavis
 klavisli
 klerikal
 klerikalizm
+klerikalizmler
 klerk
 klimatologiya
 klimatoloji
@@ -30528,6 +30632,7 @@ kokain
 kokainceken
 kokainci
 kokainizm
+kokainizmler
 kokainli
 kokalma
 kokarda
@@ -30642,6 +30747,7 @@ kollektivci
 kollektivcilik
 kollektivist
 kollektivizm
+kollektivizmler
 kollektivlesdirilme
 kollektivlesdirilmek
 kollektivlesdirme
@@ -30658,6 +30764,7 @@ kolluid
 kolluq
 kolodka
 kolonializm
+kolonializmler
 kolonist
 koloniya
 kolonka
@@ -30754,6 +30861,7 @@ komisyoner
 komisyun
 komite
 komizm
+komizmler
 komlama
 komlamaq
 komlanma
@@ -30769,6 +30877,7 @@ kommunar
 kommunist
 kommunistlik
 kommunizm
+kommunizmler
 kommutasiya
 kommutator
 kommutatorcu
@@ -30776,6 +30885,7 @@ komod
 kompaniya
 komparativist
 komparativizm
+komparativizmler
 kompilyasiya
 kompilyasiyaci
 kompilyativ
@@ -30917,6 +31027,7 @@ konstitusiyali
 konstruksiya
 konstruktivist
 konstruktivizm
+konstruktivizmler
 konstruktor
 konstruktorluq
 konsulluq
@@ -31210,6 +31321,7 @@ kosmonavtika
 kosmopolit
 kosmopolitik
 kosmopolitizm
+kosmopolitizmler
 kosmoqonik
 kosmoquniya
 kosov
@@ -31432,6 +31544,7 @@ kubbad
 kubeku
 kubik
 kubizm
+kubizmler
 kubmetr
 kubmetrlik
 kubok
@@ -32274,6 +32387,7 @@ lama
 lamahlama
 lamaist
 lamaizm
+lamaizmler
 lamatan
 lame'
 lamehale
@@ -32385,6 +32499,7 @@ latifundiya
 latinca
 latinist
 latinizm
+latinizmler
 latinlar
 latinlasdirma
 latinlasdirmaq
@@ -33042,6 +33157,7 @@ libassiz
 liberal
 liberalcasina
 liberalizm
+liberalizmler
 liberallasma
 liberallasmaq
 liberalliq
@@ -33217,6 +33333,7 @@ lirik-dramatik
 lirik-epik
 lirika
 lirizm
+lirizmler
 lirt
 lirta
 lirtliq
@@ -33553,6 +33670,7 @@ lumurt
 lumurtdan
 lunatik
 lunatizm
+lunatizmler
 lunomobil
 lunoxod
 lupa
@@ -33793,6 +33911,7 @@ maketci
 maketcilik
 maki
 makiavellizm
+makiavellizmler
 makina
 makinaci
 makinaciliq
@@ -33800,11 +33919,13 @@ makir
 makiyan
 makiyanpesend
 makkartizm
+makkartizmler
 makrel
 maksim
 maksimal
 maksimalist
 maksimalizm
+maksimalizmler
 maksimum
 makuk
 makulatura
@@ -34019,6 +34140,7 @@ maqma
 maqmatik
 maqnat
 maqnetizm
+maqnetizmler
 maqnezium
 maqneziya
 maqnit
@@ -34138,6 +34260,8 @@ marksist-leninci
 marksistcesine
 marksizm
 marksizm-leninizm
+marksizm-leninizmler
+marksizmler
 markusii
 marmahi
 marmelad
@@ -34280,6 +34404,7 @@ materialbazliq
 materialist
 materialistcesine
 materializm
+materializmler
 materialsunas
 materialsunasliq
 materik
@@ -34321,6 +34446,7 @@ maxda
 maxeleqallah
 maxist
 maxizm
+maxizmler
 maxlayi
 maxlete
 maxorka
@@ -35246,6 +35372,7 @@ melodiklik
 melodram
 melodramatik
 melodramatizm
+melodramatizmler
 meludika
 meludiya
 melul
@@ -35473,6 +35600,7 @@ menser
 mensevik
 menseviklik
 mensevizm
+mensevizmler
 mensi
 mensub
 mensube
@@ -35717,6 +35845,7 @@ merizxana
 merizxane
 merkantilist
 merkantilizm
+merkantilizmler
 merkeb
 merkez
 merkezci
@@ -36263,11 +36392,13 @@ mexaniklesmek
 mexaniklik
 mexanisist
 mexanisizm
+mexanisizmler
 mexanist
 mexanistik
 mexanizator
 mexanizatorluq
 mexanizm
+mexanizmler
 mexanizmli
 mexaric
 mexazin
@@ -36412,6 +36543,7 @@ mezc
 mezce'
 mezdekilik
 mezdekizm
+mezdekizmler
 mezdeme
 mezdemek
 mezdemex'
@@ -36582,16 +36714,8 @@ mikroelementler
 mikrofun
 mikroiqlim
 mikroklimat
-mikroobyektler
-mikroobyektletin
-mikroorganizmanin
 mikroorqanizm
-mikroorqanizmin
 mikroorqanizmler
-mikroorqanizmlerden
-mikroorqanizmlere
-mikroorqanizmleri
-mikroorqanizmlerin
 mikroqurulus
 mikrorayon
 mikroskopik
@@ -36599,6 +36723,7 @@ mikroskopiya
 mikroskup
 mikroterezi
 mikrourqanizm
+mikrourqanizmler
 mikrub
 mikrun
 mikser
@@ -36635,6 +36760,7 @@ milisionerlik
 milisiya
 militarist
 militarizm
+militarizmler
 milleme
 millemek
 millemmeg
@@ -37002,6 +37128,7 @@ misti
 mistik
 mistika
 mistisizm
+mistisizmler
 misvar
 misxord
 misyayan
@@ -37190,6 +37317,7 @@ modere
 modern
 modernist
 modernizm
+modernizmler
 moduflanmax
 modulamax
 modullasdirma
@@ -37313,6 +37441,7 @@ monarxist
 monarxiya
 monarxiyali
 monarxizm
+monarxizmler
 monastir
 moncag
 moncam
@@ -37321,6 +37450,7 @@ monistik
 monitor
 monitorinq
 monizm
+monizmler
 monolit
 monolitlik
 monoloq
@@ -37331,6 +37461,7 @@ monoqrafiya
 monoqram
 monoteist
 monoteizm
+monoteizmler
 monotip
 monotipci
 monpasi
@@ -37369,6 +37500,7 @@ more
 morfem
 morfinist
 morfinizm
+morfinizmler
 morfologiya
 morfoloji
 morfoloq
@@ -38563,6 +38695,7 @@ murgzar
 muri
 murid
 muridizm
+muridizmler
 muridlik
 murmurdar
 murov
@@ -40069,6 +40202,7 @@ nasischijf
 nasix
 nasiye
 nasizm
+nasizmler
 nasos
 nasoscu
 nasoslama
@@ -40113,6 +40247,7 @@ natura
 natural
 naturalist
 naturalizm
+naturalizmler
 naturmurt
 naumid
 naumidcesine
@@ -40526,6 +40661,7 @@ nenni
 neoantrop
 neolit
 neologizm
+neologizmler
 nepik
 nepman
 nepsicar
@@ -40942,6 +41078,7 @@ nihel
 nihilist
 nihilistcesine
 nihilizm
+nihilizmler
 nihle
 nihrebasi
 nijad
@@ -41574,12 +41711,14 @@ obrazli
 obrazliliq
 obstruksionist
 obstruksionizm
+obstruksionizmler
 obstruksiya
 obur
 obyekt
 obyektiv
 obyektivcesine
 obyektivizm
+obyektivizmler
 obyektivlik
 oc
 ocaq
@@ -42029,6 +42168,7 @@ opponentlik
 opportunist
 opportunistcesine
 opportunizm
+opportunizmler
 optik
 optika
 optimal
@@ -42036,6 +42176,7 @@ optimist
 optimistcesine
 optimistlik
 optimizm
+optimizmler
 opu
 opulme
 opulmek
@@ -42115,6 +42256,7 @@ orijinalliq
 oriyentalist
 oriyentalistika
 oriyentalizm
+oriyentalizmler
 oriyentir
 orken
 orkenli
@@ -42160,6 +42302,7 @@ orqan
 orqancalan
 orqanci
 orqanizm
+orqanizmler
 orrix
 orsag
 orsax
@@ -43013,6 +43156,7 @@ pansionat
 pansiun
 panteist
 panteizm
+panteizmler
 panteun
 pantokrin
 pantomima
@@ -43095,6 +43239,7 @@ paralatmaq
 paralel
 paralelepiped
 paralelizm
+paralelizmler
 paralellik
 paraleloqram
 paraman
@@ -43111,6 +43256,7 @@ parasut
 parasutcu
 parasutculuk
 parasutizm
+parasutizmler
 paratif
 parax
 paraxan
@@ -43118,6 +43264,7 @@ paraxay
 paraxlix
 parazit
 parazitizm
+parazitizmler
 parazitlik
 parazitologiya
 parazituloq
@@ -43173,6 +43320,7 @@ parlaman
 parlamaq
 parlament
 parlamentarizm
+parlamentarizmler
 parlamentli
 parlaq
 parlaq-qara
@@ -43261,6 +43409,7 @@ pasibansiz
 paside
 pasifist
 pasifizm
+pasifizmler
 paskellemeg
 paskvil
 paslandirma
@@ -43428,6 +43577,7 @@ peci
 pedal
 pedant
 pedantizm
+pedantizmler
 pedantliq
 pedaqoji
 pedaqoq
@@ -43839,6 +43989,7 @@ pesqurt
 pesro
 pessimist
 pessimizm
+pessimizmler
 pessuar
 pest
 pesteha
@@ -43945,6 +44096,7 @@ pezirende
 pianino
 pianinocu
 pianizm
+pianizmler
 piano
 pianocu
 pianocu-pedaqoqu
@@ -44315,6 +44467,7 @@ planerci
 planercilik
 planerist
 planerizm
+planerizmler
 planerodrom
 planet
 planetari
@@ -44346,6 +44499,7 @@ platfurma
 platin
 platonik
 platonizm
+platonizmler
 platu
 plazma
 plebey
@@ -44366,11 +44520,13 @@ plombir
 plombsuz
 plov
 pluralizm
+pluralizmler
 plus
 plutokrat
 plutokratik
 plutokratiya
 plutonizm
+plutonizmler
 plutunium
 plyaj
 plyonka
@@ -44442,6 +44598,7 @@ politexnik
 politexniki
 politexnikum
 politexnizm
+politexnizmler
 politoloq
 politura
 polk
@@ -44592,6 +44749,7 @@ pozgunluq
 pozisiya
 pozitivist
 pozitivizm
+pozitivizmler
 pozma
 pozmaq
 pozmax
@@ -44613,10 +44771,12 @@ praktiki
 praktiklik
 praktikum
 praktisizm
+praktisizmler
 praporsik
 praqmatika
 praqmatist
 praqmatizm
+praqmatizmler
 pravoslav
 pravoslavliq
 prebmbula
@@ -44643,6 +44803,7 @@ prikaz
 prima-balerina
 primitiv
 primitivizm
+primitivizmler
 primitivlik
 primus
 prinsip
@@ -44711,6 +44872,7 @@ protein
 protektorat
 protestant
 protestantizm
+protestantizmler
 protestantliq
 protez
 protezci
@@ -44875,6 +45037,7 @@ puribare
 purist
 purix'
 purizm
+purizmler
 puriztirab
 purjeng
 purkamal
@@ -45473,6 +45636,7 @@ qallaxbaz
 qalli
 qallig
 qallisizm
+qallisizmler
 qallun
 qalma
 qalmaq
@@ -50614,6 +50778,7 @@ radiasiya
 radiator
 radikal
 radikalizm
+radikalizmler
 radikulit
 radio
 radioaktiv
@@ -50742,6 +50907,7 @@ rasion
 rasional
 rasionalist
 rasionalizm
+rasionalizmler
 rasiq
 rasix
 rasqu
@@ -50767,6 +50933,7 @@ ravvin
 raxbere
 raxit
 raxitizm
+raxitizmler
 raxitli
 ray
 raybaray
@@ -50819,6 +50986,7 @@ real
 realist
 realize
 realizm
+realizmler
 reallasdirilma
 reallasdirilmaq
 reallasdirma
@@ -50902,6 +51070,7 @@ reflektur
 reformasiya
 reformist
 reformizm
+reformizmler
 refraktometr
 refrijerator
 reftar
@@ -50992,6 +51161,7 @@ rekord
 rekordcu
 rekordculuq
 rekordizm
+rekordizmler
 rekordsmen
 rektor
 rektorat
@@ -51011,6 +51181,7 @@ relsli
 relssiz
 relyativist
 relyativizm
+relyativizmler
 rem
 remad
 remadi
@@ -51240,6 +51411,7 @@ revis
 reviyyet
 revmatik
 revmatizm
+revmatizmler
 revyu
 rex'den
 rexis
@@ -51440,6 +51612,7 @@ romanci
 romanist
 romanistika
 romanizm
+romanizmler
 romans
 romantik
 romantika
@@ -51448,6 +51621,7 @@ romantiklesdirilmek
 romantiklesdirme
 romantiklesdirmek
 romantizm
+romantizmler
 romasekilli
 romavari
 romb
@@ -51477,6 +51651,7 @@ roya
 royal
 royalist
 royalizm
+royalizmler
 rozmarin
 ru
 ruaf
@@ -51594,6 +51769,7 @@ rusistika
 rusiyah
 rusiyali
 rusizm
+rusizmler
 ruslasdirilma
 ruslasdirilmaq
 ruslasdirma
@@ -51839,6 +52015,7 @@ sadise
 sadisen
 sadist
 sadizm
+sadizmler
 sadkam
 sadlandirici
 sadlandirma
@@ -52294,6 +52471,7 @@ samama
 saman
 samani
 samanizm
+samanizmler
 samanlama
 samanlamaq
 samanli
@@ -54234,15 +54412,18 @@ senniyli
 senniysiz
 sensualist
 sensualizm
+sensualizmler
 sent
 sentesimo
 sentimental
 sentimentalist
 sentimentalizm
+sentimentalizmler
 sentimentalliq
 sentimo
 sentner
 sentrizm
+sentrizmler
 sentyabr
 senuber
 senuberi
@@ -54258,6 +54439,7 @@ senzura
 sepa
 separatist
 separatizm
+separatizmler
 separator
 separatorcu
 sepbe
@@ -55130,6 +55312,7 @@ seyyidusseqeleyn
 seyyie
 seza
 sezarizm
+sezarizmler
 sezavari
 sezbaran
 sezdirme
@@ -55605,6 +55788,7 @@ simenduz
 simfonik
 simfonist
 simfonizm
+simfonizmler
 simfuniya
 simgirremeg
 simgun
@@ -55657,6 +55841,7 @@ simvol
 simvolik
 simvolist
 simvolizm
+simvolizmler
 simvulika
 simxirmax
 sin
@@ -55698,6 +55883,7 @@ sindan
 sindid
 sindikalist
 sindikalizm
+sindikalizmler
 sindikat
 sindikatlasdirma
 sindikatlasdirmaq
@@ -55859,10 +56045,12 @@ sinxron
 sinxronik
 sinxroniya
 sinxronizm
+sinxronizmler
 sinxronluq
 sinxrun
 sionist
 sionizm
+sionizmler
 sip
 sipa
 sipah
@@ -56356,6 +56544,7 @@ siv
 siva
 sivadax
 sivaizm
+sivaizmler
 sivar
 sive
 sivebaz
@@ -56578,6 +56767,7 @@ skarlatin
 skelet
 skeptik
 skeptisizm
+skeptisizmler
 sketc
 skif
 skifler
@@ -56598,6 +56788,7 @@ slam
 slanq
 slaqabum
 slavyanizm
+slavyanizmler
 slavyanlar
 slavyanlasdirma
 slavyanlasdirmaq
@@ -56652,6 +56843,7 @@ sofilik
 sofist
 sofistika
 sofizm
+sofizmler
 sofqa
 sofsofi
 sofu
@@ -56962,12 +57154,15 @@ sosialist
 sosialistlesdirme
 sosialistlesdirmek
 sosializm
+sosializmler
 sosibl
 sosibl-demokrat
 sosibl-demokratik
 sosibl-demokratizm
+sosibl-demokratizmler
 sosibl-imperialist
 sosibl-imperializm
+sosibl-imperializmler
 sosibl-revolyusioner
 sosiologiya
 sosioloji
@@ -57032,6 +57227,7 @@ sovgend
 sovher
 sovinist
 sovinizm
+sovinizmler
 sovitgemeg
 sovk
 sovka
@@ -57349,6 +57545,7 @@ strix
 strixnin
 strukturalist
 strukturalizm
+strukturalizmler
 stsifoidkimi
 stuardessa
 studiya
@@ -57446,6 +57643,7 @@ subutsuzluq
 subyektiv
 subyektivist
 subyektivizm
+subyektivizmler
 subyektivlik
 suc
 suca'
@@ -58369,6 +58567,7 @@ sxem
 sxematik
 sxematiklik
 sxematizm
+sxematizmler
 sxolastik
 sxolastika
 t
@@ -59654,6 +59853,7 @@ tehzib
 tehzin
 tehziz
 teizm
+teizmler
 tejab
 tejan
 tejannamax
@@ -61970,9 +62170,11 @@ tosunmax
 total
 totalitar
 totalitarizm
+totalitarizmler
 totegimex'
 totem
 totemizm
+totemizmler
 totuq
 totuqluq
 totus
@@ -62178,6 +62380,7 @@ tragediya
 tragik
 tragikomediya
 tragizm
+tragizmler
 traktat
 traktor
 traktorcu
@@ -62211,6 +62414,7 @@ travma
 travmali
 travmatik
 travmatizm
+travmatizmler
 travmatologiya
 travmatoloji
 traxeya
@@ -62219,6 +62423,7 @@ traxuma
 trayekturiya
 tred-yunionist
 tred-yunionizm
+tred-yunionizmler
 tred-yuniun
 trek
 trest
@@ -62523,6 +62728,7 @@ turfexan
 turgu
 turist
 turizm
+turizmler
 turk
 turkce
 turkecare
@@ -63333,6 +63539,7 @@ urban
 urbana
 urbanizasiya
 urbanizm
+urbanizmler
 urbug
 urcah
 urcan
@@ -63687,6 +63894,7 @@ uteqa'
 util
 utilitar
 utilitarizm
+utilitarizmler
 utilitarliq
 utilizasiya
 utilyigan
@@ -64074,6 +64282,7 @@ vagannatmax
 vagen
 vager
 vaginizm
+vaginizmler
 vagir
 vagire
 vagirlik
@@ -64159,6 +64368,7 @@ vana
 vanadium
 vandal
 vandalizm
+vandalizmler
 vanefsa
 vanil
 vanilli
@@ -64254,6 +64464,7 @@ varvar
 varvara
 varvarci
 varvarizm
+varvarizmler
 varyaqlar
 vasaq
 vase'
@@ -64672,6 +64883,7 @@ verimlilik
 verimsiz
 veris
 verizm
+verizmler
 verkand
 verlemek
 verme
@@ -64941,6 +65153,7 @@ visnab
 visne
 vitalist
 vitalizm
+vitalizmler
 vitamin
 vitaminlesdirilme
 vitaminlesdirilmek
@@ -64995,6 +65208,7 @@ voj
 vokal
 vokalist
 vokalizm
+vokalizmler
 voleybol
 voleybolcu
 voleyr
@@ -65010,6 +65224,7 @@ voltercilik
 voltmetr
 volyuntarist
 volyuntarizm
+volyuntarizmler
 volyuta
 vongah
 vtulka
@@ -65039,9 +65254,11 @@ vulkanik
 vulkanizasiya
 vulkanizator
 vulkanizm
+vulkanizmler
 vulqar
 vulqarcasina
 vulqarizm
+vulqarizmler
 vulqarlasdiran
 vulqarlasdirici
 vulqarlasdirilma
@@ -66833,6 +67050,7 @@ xrizantem
 xrom
 xromatik
 xromatizm
+xromatizmler
 xromlama
 xromlamaq
 xromlu
